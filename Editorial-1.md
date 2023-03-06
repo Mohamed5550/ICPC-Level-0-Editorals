@@ -9,4 +9,3 @@
 ## Problem G
 ## Problem H
 ## Problem I
-# Problem b
